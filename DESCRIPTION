@@ -1,7 +1,7 @@
 Package: ImpulseDE
 Type: Package
 Title: Detection of DE genes in time series data using impulse models
-Version: 1.15.0
+Version: 1.15.1
 Date: 2016-06-16
 Author: Jil Sander [aut, cre], Nir Yosef [aut]
 Maintainer: Jil Sander <jil.sander@uni-bonn.de>, Nir Yosef
@@ -25,3 +25,4 @@ VignetteBuilder: knitr
 URL: https://github.com/YosefLab/ImpulseDE
 BugReports: https://github.com/YosefLab/ImpulseDE/issues
 NeedsCompilation: no
+PackageStatus: Deprecated
